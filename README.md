@@ -1,2 +1,4 @@
 # Minicurso-Introdu-o-ao-Github
 Introdução ao GitHub: Controle, Colaboração e Divulgação em  Análise de Dados (Minicurso)
+
+O curso "Introdução ao GitHub: Controle, Colaboração e Divulgação em  Análise de Dados" será oferecido de forma remota e assíncrona, por meio  de videoaulas. A metodologia didática seguirá uma sequência estruturada: os participantes assistirão aos vídeos, reproduzirão os conteúdos e  aprofundarão os conceitos apresentados com orientação. Durante o minicurso, os alunos irão conhecer a ferramenta, criar suas contas e  utilizá-la tanto online quanto pelo GitHub Desktop, com ênfase no uso  integrado ao RStudio. As atividades ocorrerão na plataforma Google  Classroom, onde poderão interagir e colaborar entre si e com o  professor, visando cumprir metas parciais e garantir o sucesso do  projeto final.
